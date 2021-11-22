@@ -24,10 +24,3 @@ https://aschram2.shinyapps.io/11-interactive-graphics-aschram2/
 
 
 
-#cocktail_cat <- data.frame(cocktails$category)
-#drink <- cocktails$drink_thumb
-
-#library(imager)
-#im <- load.image(drink)
-#plot(im)
-# plot(cocktails$category)
